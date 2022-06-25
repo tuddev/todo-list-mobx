@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./public/",
+    "experimentalDecorators": true,
+    "target": "ESNext",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "module": "es6",
+    "esModuleInterop": true,
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node"
+  }
+}
